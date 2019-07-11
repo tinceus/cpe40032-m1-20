@@ -1,5 +1,5 @@
-# cpe40032-m1-20
-Pong with AI Update.
+# Pong with AI Update.
+cpe40032-m1-20
 
 Objectives:
 
